@@ -18,4 +18,4 @@ A desktop-based Point of Sale (POS) application designed for small retail enviro
 ## 📦 How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/mohamed67/PyRetail-POS.git](https://github.com/mohamed67/PyRetail-POS.git)
+   git clone [https://github.com/mohamed67-source/Retail-POS-System.git](https://github.com/mohamed67-source/Retail-POS-System.git)
