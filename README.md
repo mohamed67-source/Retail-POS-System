@@ -21,5 +21,5 @@ A desktop-based Point of Sale (POS) application designed for small retail enviro
    git clone [https://github.com/mohamed67-source/Retail-POS-System.git](https://github.com/mohamed67-source/Retail-POS-System.git)
 
 ## Team Members 
--Mohamed Hamdy(@mohamed67-source)
--Mostafa Samir (@s-mostafasamir-collab)
+-**Mohamed Hamdy(@mohamed67-source)
+-**Mostafa Samir (@s-mostafasamir-collab)
